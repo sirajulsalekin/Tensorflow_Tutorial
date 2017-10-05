@@ -139,7 +139,7 @@ for i in range(2001):
         print("step %d, LOSS %g, Accuracy %g" % (i, loss_value, valid_mean[0]))
 
 
-# To start Tensorboard from python IDE run the following command. To start from linux terminal exclude '!' at the beginning
+# To launch Tensorboard from python IDE run the following command. To start from linux terminal exclude '!' at the beginning
 
 # !tensorboard --logdir /tmp/TensorflowTutorial/1
 
